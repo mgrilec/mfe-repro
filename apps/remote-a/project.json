@@ -20,7 +20,8 @@
         "scripts": [],
         "customWebpackConfig": {
           "path": "apps/remote-a/webpack.config.js"
-        }
+        },
+        "buildLibsFromSource": false
       },
       "configurations": {
         "production": {
